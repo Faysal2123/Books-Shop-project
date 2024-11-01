@@ -2,15 +2,16 @@
 
 const Footer = () => {
     return (
-        <footer className="footer bg-base-300 text-base-content p-10">
-        <nav>
-          <h6 className="footer-title">Services</h6>
+        <footer className="footer bg-base-300 text-base-content md:p-10 p-4">
+       <div className="flex justify-between w-11/12 mx-auto md:p-10 p-4  md:flex-row flex-col  items-center text-center md:text-start">
+       <nav className="flex flex-col text-base">
+          <h6 className="footer-title ">Services</h6>
           <a className="link link-hover">Branding</a>
           <a className="link link-hover">Design</a>
           <a className="link link-hover">Marketing</a>
           <a className="link link-hover">Advertisement</a>
         </nav>
-        <nav>
+        <nav className="flex flex-col text-base">
           <h6 className="footer-title">Company</h6>
           <a className="link link-hover">About us</a>
           <a className="link link-hover">Contact</a>
@@ -18,7 +19,7 @@ const Footer = () => {
           <a className="link link-hover">Press kit</a>
         </nav>
         <nav>
-          <h6 className="footer-title">Social</h6>
+          <h6 className="footer-title text-base">Social</h6>
           <div className="grid grid-flow-col gap-4">
             <a>
               <svg
@@ -55,6 +56,7 @@ const Footer = () => {
             </a>
           </div>
         </nav>
+       </div>
       </footer>
     );
 };

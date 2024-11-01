@@ -3,7 +3,7 @@ const Banner = () => {
   return (
     <div className="hero bg-base-200 md:h-[554px] md:mt-10 mt-3 lg:mb-10 mb-5">
       <div className="hero-content flex-col lg:flex-row-reverse ">
-        <img
+        <img 
           src={BannerImg}
           className=" rounded-lg shadow-2xl md:w-[450px] md:h-[394px]"
         />
@@ -14,7 +14,7 @@ const Banner = () => {
           </p>
          
         <div className='flex justify-center'>
-        <button className="btn btn-primary mt-5">Get Started</button>
+        <button className="btn bg-[#23BE0A] text-white font-bold mt-5">View The List</button>
         </div>
         </div>
       </div>

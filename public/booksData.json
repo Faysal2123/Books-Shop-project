@@ -1,0 +1,110 @@
+[
+    {
+        "id": 101,
+        "name": "To Kill a Mockingbird",
+        "image": "https://i.ibb.co.com/w7BF8qv/b1.jpg",
+        "author": ["Harper Lee"],
+        "totalPages": 281,
+        "rating": 4.27,
+        "category": "Fiction",
+        "tags": ["classic", "literature", "race", "coming-of-age"],
+        "publishers": ["J.B. Lippincott & Co."],
+        "yearOfPublishing": 1960
+    },
+    {
+        "id": 102,
+        "name": "The Catcher in the Rye",
+        "image": "https://i.ibb.co.com/3hSwc12/b-2.jpg",
+        "author": ["J.D. Salinger"],
+        "totalPages": 277,
+        "rating": 3.81,
+        "category": "Fiction",
+        "tags": ["classic", "coming-of-age", "rebellion"],
+        "publishers": ["Little, Brown and Company"],
+        "yearOfPublishing": 1951
+    },
+    {
+        "id": 103,
+        "name": "Python Crash Course",
+        "image": "https://i.ibb.co.com/Yyz7DDk/b-3.jpg",
+        "author": ["Eric Matthes"],
+        "totalPages": 544,
+        "rating": 4.6,
+        "category": "Programming",
+        "tags": ["Python", "coding", "beginner"],
+        "publishers": ["No Starch Press"],
+        "yearOfPublishing": 2015
+    },
+    {
+        "id": 104,
+        "name": "Harry Potter and the Sorcerer's Stone",
+        "image": "https://i.ibb.co.com/sstcWgt/b-4.jpg",
+        "author": ["J.K. Rowling"],
+        "totalPages": 309,
+        "rating": 4.45,
+        "category": "Fantasy",
+        "tags": ["magic", "school", "friendship"],
+        "publishers": ["Bloomsbury"],
+        "yearOfPublishing": 1997
+    },
+    {
+        "id": 105,
+        "name": " A Handbook of Agile Software Craftsmanship",
+        "image": "https://i.ibb.co.com/WK6Cy2x/b-5.jpg",
+        "author": ["Robert C. Martin"],
+        "totalPages": 464,
+        "rating": 4.35,
+        "category": "Programming",
+        "tags": ["software development", "best practices"],
+        "publishers": ["Prentice Hall"],
+        "yearOfPublishing": 2008
+    },
+    {
+        "id": 106,
+        "name": "War and Peace",
+        "image": "https://i.ibb.co.com/7V7WFHT/b-6.jpg",
+        "author": ["Leo Tolstoy"],
+        "totalPages": 1225,
+        "rating": 4.1,
+        "category": "Historical Fiction",
+        "tags": ["war", "peace", "love"],
+        "publishers": ["The Russian Messenger"],
+        "yearOfPublishing": 1869
+    },
+    {
+        "id": 107,
+        "name": "The Adventures of Huckleberry Finn",
+        "image": "https://i.ibb.co.com/yVvm1dC/b-7.jpg",
+        "author": ["Mark Twain"],
+        "totalPages": 366,
+        "rating": 3.74,
+        "category": "Fiction",
+        "tags": ["adventure", "friendship", "coming-of-age"],
+        "publishers": ["Charles L. Webster And Company"],
+        "yearOfPublishing": 1884
+    },
+    {
+        "id": 108,
+        "name": "The Pragmatic Programmer: Your Journey to Mastery",
+        "image": "https://i.ibb.co.com/HNkqhDk/b-8.jpg",
+        "author": ["Andrew Hunt", "David Thomas"],
+        "totalPages": 352,
+        "rating": 4.46,
+        "category": "Programming",
+        "tags": ["software development", "best practices"],
+        "publishers": ["Addison-Wesley"],
+        "yearOfPublishing": 1999
+    },
+    {
+        "id": 109,
+        "name": "The Tale of Peter Rabbit",
+        "image": "https://i.ibb.co.com/qry7xM8/b-9.jpg",
+        "author": ["Beatrix Potter"],
+        "totalPages": 72,
+        "rating": 4.24,
+        "category": "Children's Literature",
+        "tags": ["children", "classic", "animals"],
+        "publishers": ["Frederick Warne & Co."],
+        "yearOfPublishing": 1902
+    }
+]
